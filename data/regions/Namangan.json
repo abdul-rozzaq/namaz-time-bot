@@ -1,0 +1,3676 @@
+{
+    "1": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:38",
+            "peshin": "12:17",
+            "asr": "15:15",
+            "iftorlik": "16:59",
+            "xufton": "18:21"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:38",
+            "peshin": "12:17",
+            "asr": "15:16",
+            "iftorlik": "17:00",
+            "xufton": "18:22"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:18",
+            "asr": "15:17",
+            "iftorlik": "17:01",
+            "xufton": "18:22"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:14",
+            "quyosh": "07:39",
+            "peshin": "12:18",
+            "asr": "15:18",
+            "iftorlik": "17:02",
+            "xufton": "18:23"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:19",
+            "asr": "15:18",
+            "iftorlik": "17:02",
+            "xufton": "18:24"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:19",
+            "asr": "15:19",
+            "iftorlik": "17:03",
+            "xufton": "18:25"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:20",
+            "asr": "15:20",
+            "iftorlik": "17:04",
+            "xufton": "18:26"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:20",
+            "asr": "15:21",
+            "iftorlik": "17:05",
+            "xufton": "18:27"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:21",
+            "asr": "15:22",
+            "iftorlik": "17:06",
+            "xufton": "18:28"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:21",
+            "asr": "15:23",
+            "iftorlik": "17:07",
+            "xufton": "18:29"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:14",
+            "quyosh": "07:38",
+            "peshin": "12:21",
+            "asr": "15:24",
+            "iftorlik": "17:09",
+            "xufton": "18:29"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:37",
+            "peshin": "12:22",
+            "asr": "15:26",
+            "iftorlik": "17:10",
+            "xufton": "18:30"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:13",
+            "quyosh": "07:37",
+            "peshin": "12:22",
+            "asr": "15:27",
+            "iftorlik": "17:11",
+            "xufton": "18:31"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:37",
+            "peshin": "12:22",
+            "asr": "15:28",
+            "iftorlik": "17:12",
+            "xufton": "18:32"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:36",
+            "peshin": "12:23",
+            "asr": "15:29",
+            "iftorlik": "17:13",
+            "xufton": "18:33"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:12",
+            "quyosh": "07:36",
+            "peshin": "12:23",
+            "asr": "15:30",
+            "iftorlik": "17:14",
+            "xufton": "18:34"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:12",
+            "quyosh": "07:35",
+            "peshin": "12:24",
+            "asr": "15:31",
+            "iftorlik": "17:15",
+            "xufton": "18:35"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:12",
+            "quyosh": "07:35",
+            "peshin": "12:24",
+            "asr": "15:32",
+            "iftorlik": "17:16",
+            "xufton": "18:36"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:11",
+            "quyosh": "07:34",
+            "peshin": "12:24",
+            "asr": "15:33",
+            "iftorlik": "17:18",
+            "xufton": "18:37"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:11",
+            "quyosh": "07:34",
+            "peshin": "12:24",
+            "asr": "15:35",
+            "iftorlik": "17:19",
+            "xufton": "18:38"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:10",
+            "quyosh": "07:33",
+            "peshin": "12:25",
+            "asr": "15:36",
+            "iftorlik": "17:20",
+            "xufton": "18:39"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:10",
+            "quyosh": "07:32",
+            "peshin": "12:25",
+            "asr": "15:37",
+            "iftorlik": "17:21",
+            "xufton": "18:40"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:09",
+            "quyosh": "07:32",
+            "peshin": "12:25",
+            "asr": "15:38",
+            "iftorlik": "17:22",
+            "xufton": "18:42"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:09",
+            "quyosh": "07:31",
+            "peshin": "12:26",
+            "asr": "15:39",
+            "iftorlik": "17:24",
+            "xufton": "18:43"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:08",
+            "quyosh": "07:30",
+            "peshin": "12:26",
+            "asr": "15:40",
+            "iftorlik": "17:25",
+            "xufton": "18:44"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:08",
+            "quyosh": "07:29",
+            "peshin": "12:26",
+            "asr": "15:42",
+            "iftorlik": "17:26",
+            "xufton": "18:45"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:07",
+            "quyosh": "07:29",
+            "peshin": "12:26",
+            "asr": "15:43",
+            "iftorlik": "17:27",
+            "xufton": "18:46"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:06",
+            "quyosh": "07:28",
+            "peshin": "12:26",
+            "asr": "15:44",
+            "iftorlik": "17:28",
+            "xufton": "18:47"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:06",
+            "quyosh": "07:27",
+            "peshin": "12:27",
+            "asr": "15:45",
+            "iftorlik": "17:30",
+            "xufton": "18:48"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:05",
+            "quyosh": "07:26",
+            "peshin": "12:27",
+            "asr": "15:46",
+            "iftorlik": "17:31",
+            "xufton": "18:49"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:04",
+            "quyosh": "07:25",
+            "peshin": "12:27",
+            "asr": "15:48",
+            "iftorlik": "17:32",
+            "xufton": "18:50"
+        }
+    },
+    "2": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:03",
+            "quyosh": "07:24",
+            "peshin": "12:27",
+            "asr": "15:49",
+            "iftorlik": "17:33",
+            "xufton": "18:51"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:02",
+            "quyosh": "07:23",
+            "peshin": "12:27",
+            "asr": "15:50",
+            "iftorlik": "17:35",
+            "xufton": "18:52"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:02",
+            "quyosh": "07:22",
+            "peshin": "12:27",
+            "asr": "15:51",
+            "iftorlik": "17:36",
+            "xufton": "18:53"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:01",
+            "quyosh": "07:21",
+            "peshin": "12:27",
+            "asr": "15:52",
+            "iftorlik": "17:37",
+            "xufton": "18:55"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:00",
+            "quyosh": "07:20",
+            "peshin": "12:27",
+            "asr": "15:54",
+            "iftorlik": "17:38",
+            "xufton": "18:56"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:59",
+            "quyosh": "07:19",
+            "peshin": "12:27",
+            "asr": "15:55",
+            "iftorlik": "17:40",
+            "xufton": "18:57"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:58",
+            "quyosh": "07:18",
+            "peshin": "12:28",
+            "asr": "15:56",
+            "iftorlik": "17:41",
+            "xufton": "18:58"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:57",
+            "quyosh": "07:17",
+            "peshin": "12:28",
+            "asr": "15:57",
+            "iftorlik": "17:42",
+            "xufton": "18:59"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:56",
+            "quyosh": "07:15",
+            "peshin": "12:28",
+            "asr": "15:58",
+            "iftorlik": "17:43",
+            "xufton": "19:00"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:55",
+            "quyosh": "07:14",
+            "peshin": "12:28",
+            "asr": "16:00",
+            "iftorlik": "17:45",
+            "xufton": "19:01"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:54",
+            "quyosh": "07:13",
+            "peshin": "12:28",
+            "asr": "16:01",
+            "iftorlik": "17:46",
+            "xufton": "19:02"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:52",
+            "quyosh": "07:12",
+            "peshin": "12:28",
+            "asr": "16:02",
+            "iftorlik": "17:47",
+            "xufton": "19:03"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:51",
+            "quyosh": "07:11",
+            "peshin": "12:28",
+            "asr": "16:03",
+            "iftorlik": "17:48",
+            "xufton": "19:05"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:50",
+            "quyosh": "07:09",
+            "peshin": "12:28",
+            "asr": "16:04",
+            "iftorlik": "17:50",
+            "xufton": "19:06"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:49",
+            "quyosh": "07:08",
+            "peshin": "12:28",
+            "asr": "16:05",
+            "iftorlik": "17:51",
+            "xufton": "19:07"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:48",
+            "quyosh": "07:07",
+            "peshin": "12:27",
+            "asr": "16:06",
+            "iftorlik": "17:52",
+            "xufton": "19:08"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:46",
+            "quyosh": "07:05",
+            "peshin": "12:27",
+            "asr": "16:08",
+            "iftorlik": "17:53",
+            "xufton": "19:09"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:45",
+            "quyosh": "07:04",
+            "peshin": "12:27",
+            "asr": "16:09",
+            "iftorlik": "17:54",
+            "xufton": "19:10"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:44",
+            "quyosh": "07:02",
+            "peshin": "12:27",
+            "asr": "16:10",
+            "iftorlik": "17:56",
+            "xufton": "19:11"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:43",
+            "quyosh": "07:01",
+            "peshin": "12:27",
+            "asr": "16:11",
+            "iftorlik": "17:57",
+            "xufton": "19:12"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:41",
+            "quyosh": "07:00",
+            "peshin": "12:27",
+            "asr": "16:12",
+            "iftorlik": "17:58",
+            "xufton": "19:13"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:40",
+            "quyosh": "06:58",
+            "peshin": "12:27",
+            "asr": "16:13",
+            "iftorlik": "17:59",
+            "xufton": "19:15"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:39",
+            "quyosh": "06:57",
+            "peshin": "12:27",
+            "asr": "16:14",
+            "iftorlik": "18:00",
+            "xufton": "19:16"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:37",
+            "quyosh": "06:55",
+            "peshin": "12:27",
+            "asr": "16:15",
+            "iftorlik": "18:02",
+            "xufton": "19:17"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:36",
+            "quyosh": "06:54",
+            "peshin": "12:26",
+            "asr": "16:16",
+            "iftorlik": "18:03",
+            "xufton": "19:18"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:34",
+            "quyosh": "06:52",
+            "peshin": "12:26",
+            "asr": "16:17",
+            "iftorlik": "18:04",
+            "xufton": "19:19"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:33",
+            "quyosh": "06:51",
+            "peshin": "12:26",
+            "asr": "16:18",
+            "iftorlik": "18:05",
+            "xufton": "19:20"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:31",
+            "quyosh": "06:49",
+            "peshin": "12:26",
+            "asr": "16:19",
+            "iftorlik": "18:06",
+            "xufton": "19:21"
+        }
+    },
+    "3": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:30",
+            "quyosh": "06:48",
+            "peshin": "12:26",
+            "asr": "16:20",
+            "iftorlik": "18:07",
+            "xufton": "19:22"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:28",
+            "quyosh": "06:46",
+            "peshin": "12:26",
+            "asr": "16:21",
+            "iftorlik": "18:09",
+            "xufton": "19:23"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:27",
+            "quyosh": "06:45",
+            "peshin": "12:25",
+            "asr": "16:22",
+            "iftorlik": "18:10",
+            "xufton": "19:25"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:25",
+            "quyosh": "06:43",
+            "peshin": "12:25",
+            "asr": "16:23",
+            "iftorlik": "18:11",
+            "xufton": "19:26"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:24",
+            "quyosh": "06:42",
+            "peshin": "12:25",
+            "asr": "16:24",
+            "iftorlik": "18:12",
+            "xufton": "19:27"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:22",
+            "quyosh": "06:40",
+            "peshin": "12:25",
+            "asr": "16:25",
+            "iftorlik": "18:13",
+            "xufton": "19:28"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:21",
+            "quyosh": "06:38",
+            "peshin": "12:24",
+            "asr": "16:26",
+            "iftorlik": "18:14",
+            "xufton": "19:29"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:19",
+            "quyosh": "06:37",
+            "peshin": "12:24",
+            "asr": "16:27",
+            "iftorlik": "18:15",
+            "xufton": "19:30"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:17",
+            "quyosh": "06:35",
+            "peshin": "12:24",
+            "asr": "16:28",
+            "iftorlik": "18:16",
+            "xufton": "19:31"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:16",
+            "quyosh": "06:33",
+            "peshin": "12:24",
+            "asr": "16:29",
+            "iftorlik": "18:18",
+            "xufton": "19:32"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:14",
+            "quyosh": "06:32",
+            "peshin": "12:23",
+            "asr": "16:30",
+            "iftorlik": "18:19",
+            "xufton": "19:34"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:12",
+            "quyosh": "06:30",
+            "peshin": "12:23",
+            "asr": "16:31",
+            "iftorlik": "18:20",
+            "xufton": "19:35"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:11",
+            "quyosh": "06:29",
+            "peshin": "12:23",
+            "asr": "16:32",
+            "iftorlik": "18:21",
+            "xufton": "19:36"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:09",
+            "quyosh": "06:27",
+            "peshin": "12:23",
+            "asr": "16:32",
+            "iftorlik": "18:22",
+            "xufton": "19:37"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:07",
+            "quyosh": "06:25",
+            "peshin": "12:22",
+            "asr": "16:33",
+            "iftorlik": "18:23",
+            "xufton": "19:38"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:06",
+            "quyosh": "06:24",
+            "peshin": "12:22",
+            "asr": "16:34",
+            "iftorlik": "18:24",
+            "xufton": "19:39"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:04",
+            "quyosh": "06:22",
+            "peshin": "12:22",
+            "asr": "16:35",
+            "iftorlik": "18:25",
+            "xufton": "19:41"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:02",
+            "quyosh": "06:20",
+            "peshin": "12:21",
+            "asr": "16:36",
+            "iftorlik": "18:26",
+            "xufton": "19:42"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:00",
+            "quyosh": "06:19",
+            "peshin": "12:21",
+            "asr": "16:37",
+            "iftorlik": "18:27",
+            "xufton": "19:43"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:59",
+            "quyosh": "06:17",
+            "peshin": "12:21",
+            "asr": "16:37",
+            "iftorlik": "18:28",
+            "xufton": "19:44"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:57",
+            "quyosh": "06:15",
+            "peshin": "12:21",
+            "asr": "16:38",
+            "iftorlik": "18:30",
+            "xufton": "19:45"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:55",
+            "quyosh": "06:14",
+            "peshin": "12:20",
+            "asr": "16:39",
+            "iftorlik": "18:31",
+            "xufton": "19:46"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:53",
+            "quyosh": "06:12",
+            "peshin": "12:20",
+            "asr": "16:40",
+            "iftorlik": "18:32",
+            "xufton": "19:48"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:51",
+            "quyosh": "06:10",
+            "peshin": "12:20",
+            "asr": "16:41",
+            "iftorlik": "18:33",
+            "xufton": "19:49"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:50",
+            "quyosh": "06:09",
+            "peshin": "12:19",
+            "asr": "16:41",
+            "iftorlik": "18:34",
+            "xufton": "19:50"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:48",
+            "quyosh": "06:07",
+            "peshin": "12:19",
+            "asr": "16:42",
+            "iftorlik": "18:35",
+            "xufton": "19:51"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:46",
+            "quyosh": "06:05",
+            "peshin": "12:19",
+            "asr": "16:43",
+            "iftorlik": "18:36",
+            "xufton": "19:52"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:44",
+            "quyosh": "06:04",
+            "peshin": "12:18",
+            "asr": "16:44",
+            "iftorlik": "18:37",
+            "xufton": "19:54"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:42",
+            "quyosh": "06:02",
+            "peshin": "12:18",
+            "asr": "16:44",
+            "iftorlik": "18:38",
+            "xufton": "19:55"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:41",
+            "quyosh": "06:00",
+            "peshin": "12:18",
+            "asr": "16:45",
+            "iftorlik": "18:39",
+            "xufton": "19:56"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:39",
+            "quyosh": "05:59",
+            "peshin": "12:18",
+            "asr": "16:46",
+            "iftorlik": "18:40",
+            "xufton": "19:57"
+        }
+    },
+    "4": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:37",
+            "quyosh": "05:57",
+            "peshin": "12:17",
+            "asr": "16:47",
+            "iftorlik": "18:41",
+            "xufton": "19:59"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:35",
+            "quyosh": "05:55",
+            "peshin": "12:17",
+            "asr": "16:47",
+            "iftorlik": "18:42",
+            "xufton": "20:00"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:33",
+            "quyosh": "05:54",
+            "peshin": "12:17",
+            "asr": "16:48",
+            "iftorlik": "18:43",
+            "xufton": "20:01"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:31",
+            "quyosh": "05:52",
+            "peshin": "12:16",
+            "asr": "16:49",
+            "iftorlik": "18:44",
+            "xufton": "20:02"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:30",
+            "quyosh": "05:50",
+            "peshin": "12:16",
+            "asr": "16:49",
+            "iftorlik": "18:46",
+            "xufton": "20:04"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:28",
+            "quyosh": "05:49",
+            "peshin": "12:16",
+            "asr": "16:50",
+            "iftorlik": "18:47",
+            "xufton": "20:05"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:26",
+            "quyosh": "05:47",
+            "peshin": "12:16",
+            "asr": "16:51",
+            "iftorlik": "18:48",
+            "xufton": "20:06"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:24",
+            "quyosh": "05:46",
+            "peshin": "12:15",
+            "asr": "16:52",
+            "iftorlik": "18:49",
+            "xufton": "20:07"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:22",
+            "quyosh": "05:44",
+            "peshin": "12:15",
+            "asr": "16:52",
+            "iftorlik": "18:50",
+            "xufton": "20:09"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:20",
+            "quyosh": "05:42",
+            "peshin": "12:15",
+            "asr": "16:53",
+            "iftorlik": "18:51",
+            "xufton": "20:10"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:18",
+            "quyosh": "05:41",
+            "peshin": "12:14",
+            "asr": "16:54",
+            "iftorlik": "18:52",
+            "xufton": "20:11"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:17",
+            "quyosh": "05:39",
+            "peshin": "12:14",
+            "asr": "16:54",
+            "iftorlik": "18:53",
+            "xufton": "20:13"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:15",
+            "quyosh": "05:38",
+            "peshin": "12:14",
+            "asr": "16:55",
+            "iftorlik": "18:54",
+            "xufton": "20:14"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:13",
+            "quyosh": "05:36",
+            "peshin": "12:14",
+            "asr": "16:56",
+            "iftorlik": "18:55",
+            "xufton": "20:15"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:11",
+            "quyosh": "05:34",
+            "peshin": "12:13",
+            "asr": "16:56",
+            "iftorlik": "18:56",
+            "xufton": "20:17"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:09",
+            "quyosh": "05:33",
+            "peshin": "12:13",
+            "asr": "16:57",
+            "iftorlik": "18:57",
+            "xufton": "20:18"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:07",
+            "quyosh": "05:31",
+            "peshin": "12:13",
+            "asr": "16:58",
+            "iftorlik": "18:58",
+            "xufton": "20:19"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:06",
+            "quyosh": "05:30",
+            "peshin": "12:13",
+            "asr": "16:58",
+            "iftorlik": "18:59",
+            "xufton": "20:21"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:04",
+            "quyosh": "05:28",
+            "peshin": "12:13",
+            "asr": "16:59",
+            "iftorlik": "19:00",
+            "xufton": "20:22"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:02",
+            "quyosh": "05:27",
+            "peshin": "12:12",
+            "asr": "16:59",
+            "iftorlik": "19:01",
+            "xufton": "20:24"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:00",
+            "quyosh": "05:25",
+            "peshin": "12:12",
+            "asr": "17:00",
+            "iftorlik": "19:03",
+            "xufton": "20:25"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:58",
+            "quyosh": "05:24",
+            "peshin": "12:12",
+            "asr": "17:01",
+            "iftorlik": "19:04",
+            "xufton": "20:26"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:57",
+            "quyosh": "05:22",
+            "peshin": "12:12",
+            "asr": "17:01",
+            "iftorlik": "19:05",
+            "xufton": "20:28"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:55",
+            "quyosh": "05:21",
+            "peshin": "12:12",
+            "asr": "17:02",
+            "iftorlik": "19:06",
+            "xufton": "20:29"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:53",
+            "quyosh": "05:20",
+            "peshin": "12:11",
+            "asr": "17:03",
+            "iftorlik": "19:07",
+            "xufton": "20:31"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:51",
+            "quyosh": "05:18",
+            "peshin": "12:11",
+            "asr": "17:03",
+            "iftorlik": "19:08",
+            "xufton": "20:32"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:50",
+            "quyosh": "05:17",
+            "peshin": "12:11",
+            "asr": "17:04",
+            "iftorlik": "19:09",
+            "xufton": "20:33"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:48",
+            "quyosh": "05:16",
+            "peshin": "12:11",
+            "asr": "17:04",
+            "iftorlik": "19:10",
+            "xufton": "20:35"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:46",
+            "quyosh": "05:14",
+            "peshin": "12:11",
+            "asr": "17:05",
+            "iftorlik": "19:11",
+            "xufton": "20:36"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:44",
+            "quyosh": "05:13",
+            "peshin": "12:11",
+            "asr": "17:06",
+            "iftorlik": "19:12",
+            "xufton": "20:38"
+        }
+    },
+    "5": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:43",
+            "quyosh": "05:12",
+            "peshin": "12:11",
+            "asr": "17:06",
+            "iftorlik": "19:13",
+            "xufton": "20:39"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:41",
+            "quyosh": "05:10",
+            "peshin": "12:10",
+            "asr": "17:07",
+            "iftorlik": "19:14",
+            "xufton": "20:41"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:39",
+            "quyosh": "05:09",
+            "peshin": "12:10",
+            "asr": "17:07",
+            "iftorlik": "19:15",
+            "xufton": "20:42"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:38",
+            "quyosh": "05:08",
+            "peshin": "12:10",
+            "asr": "17:08",
+            "iftorlik": "19:16",
+            "xufton": "20:44"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:36",
+            "quyosh": "05:07",
+            "peshin": "12:10",
+            "asr": "17:09",
+            "iftorlik": "19:17",
+            "xufton": "20:45"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:35",
+            "quyosh": "05:05",
+            "peshin": "12:10",
+            "asr": "17:09",
+            "iftorlik": "19:18",
+            "xufton": "20:46"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:33",
+            "quyosh": "05:04",
+            "peshin": "12:10",
+            "asr": "17:10",
+            "iftorlik": "19:19",
+            "xufton": "20:48"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:31",
+            "quyosh": "05:03",
+            "peshin": "12:10",
+            "asr": "17:10",
+            "iftorlik": "19:20",
+            "xufton": "20:49"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:30",
+            "quyosh": "05:02",
+            "peshin": "12:10",
+            "asr": "17:11",
+            "iftorlik": "19:21",
+            "xufton": "20:51"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:28",
+            "quyosh": "05:01",
+            "peshin": "12:10",
+            "asr": "17:12",
+            "iftorlik": "19:22",
+            "xufton": "20:52"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:27",
+            "quyosh": "05:00",
+            "peshin": "12:10",
+            "asr": "17:12",
+            "iftorlik": "19:23",
+            "xufton": "20:54"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:25",
+            "quyosh": "04:59",
+            "peshin": "12:10",
+            "asr": "17:13",
+            "iftorlik": "19:24",
+            "xufton": "20:55"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:24",
+            "quyosh": "04:58",
+            "peshin": "12:10",
+            "asr": "17:13",
+            "iftorlik": "19:25",
+            "xufton": "20:56"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:22",
+            "quyosh": "04:57",
+            "peshin": "12:10",
+            "asr": "17:14",
+            "iftorlik": "19:26",
+            "xufton": "20:58"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:21",
+            "quyosh": "04:56",
+            "peshin": "12:10",
+            "asr": "17:14",
+            "iftorlik": "19:27",
+            "xufton": "20:59"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:20",
+            "quyosh": "04:55",
+            "peshin": "12:10",
+            "asr": "17:15",
+            "iftorlik": "19:28",
+            "xufton": "21:01"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:18",
+            "quyosh": "04:54",
+            "peshin": "12:10",
+            "asr": "17:16",
+            "iftorlik": "19:29",
+            "xufton": "21:02"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:17",
+            "quyosh": "04:53",
+            "peshin": "12:10",
+            "asr": "17:16",
+            "iftorlik": "19:30",
+            "xufton": "21:03"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:16",
+            "quyosh": "04:52",
+            "peshin": "12:10",
+            "asr": "17:17",
+            "iftorlik": "19:31",
+            "xufton": "21:05"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:14",
+            "quyosh": "04:51",
+            "peshin": "12:10",
+            "asr": "17:17",
+            "iftorlik": "19:32",
+            "xufton": "21:06"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:13",
+            "quyosh": "04:50",
+            "peshin": "12:10",
+            "asr": "17:18",
+            "iftorlik": "19:33",
+            "xufton": "21:08"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:12",
+            "quyosh": "04:50",
+            "peshin": "12:10",
+            "asr": "17:18",
+            "iftorlik": "19:34",
+            "xufton": "21:09"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:11",
+            "quyosh": "04:49",
+            "peshin": "12:10",
+            "asr": "17:19",
+            "iftorlik": "19:35",
+            "xufton": "21:10"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:10",
+            "quyosh": "04:48",
+            "peshin": "12:10",
+            "asr": "17:19",
+            "iftorlik": "19:36",
+            "xufton": "21:11"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:09",
+            "quyosh": "04:47",
+            "peshin": "12:10",
+            "asr": "17:20",
+            "iftorlik": "19:37",
+            "xufton": "21:13"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:08",
+            "quyosh": "04:47",
+            "peshin": "12:10",
+            "asr": "17:20",
+            "iftorlik": "19:38",
+            "xufton": "21:14"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:07",
+            "quyosh": "04:46",
+            "peshin": "12:11",
+            "asr": "17:21",
+            "iftorlik": "19:38",
+            "xufton": "21:15"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:06",
+            "quyosh": "04:46",
+            "peshin": "12:11",
+            "asr": "17:21",
+            "iftorlik": "19:39",
+            "xufton": "21:16"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:05",
+            "quyosh": "04:45",
+            "peshin": "12:11",
+            "asr": "17:22",
+            "iftorlik": "19:40",
+            "xufton": "21:18"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:04",
+            "quyosh": "04:45",
+            "peshin": "12:11",
+            "asr": "17:22",
+            "iftorlik": "19:41",
+            "xufton": "21:19"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:03",
+            "quyosh": "04:44",
+            "peshin": "12:11",
+            "asr": "17:23",
+            "iftorlik": "19:42",
+            "xufton": "21:20"
+        }
+    },
+    "6": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "",
+            "saharlik": "03:02",
+            "quyosh": "04:44",
+            "peshin": "12:11",
+            "asr": "17:23",
+            "iftorlik": "19:42",
+            "xufton": "21:21"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:01",
+            "quyosh": "04:43",
+            "peshin": "12:11",
+            "asr": "17:24",
+            "iftorlik": "19:43",
+            "xufton": "21:22"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:01",
+            "quyosh": "04:43",
+            "peshin": "12:12",
+            "asr": "17:24",
+            "iftorlik": "19:44",
+            "xufton": "21:23"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:00",
+            "quyosh": "04:42",
+            "peshin": "12:12",
+            "asr": "17:25",
+            "iftorlik": "19:44",
+            "xufton": "21:24"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "02:59",
+            "quyosh": "04:42",
+            "peshin": "12:12",
+            "asr": "17:25",
+            "iftorlik": "19:45",
+            "xufton": "21:25"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Juma",
+            "saharlik": "02:59",
+            "quyosh": "04:42",
+            "peshin": "12:12",
+            "asr": "17:25",
+            "iftorlik": "19:46",
+            "xufton": "21:26"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Shanba",
+            "saharlik": "02:58",
+            "quyosh": "04:42",
+            "peshin": "12:12",
+            "asr": "17:26",
+            "iftorlik": "19:46",
+            "xufton": "21:27"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "02:58",
+            "quyosh": "04:41",
+            "peshin": "12:13",
+            "asr": "17:26",
+            "iftorlik": "19:47",
+            "xufton": "21:27"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "02:57",
+            "quyosh": "04:41",
+            "peshin": "12:13",
+            "asr": "17:27",
+            "iftorlik": "19:47",
+            "xufton": "21:28"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "02:57",
+            "quyosh": "04:41",
+            "peshin": "12:13",
+            "asr": "17:27",
+            "iftorlik": "19:48",
+            "xufton": "21:29"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "02:57",
+            "quyosh": "04:41",
+            "peshin": "12:13",
+            "asr": "17:27",
+            "iftorlik": "19:49",
+            "xufton": "21:30"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:13",
+            "asr": "17:28",
+            "iftorlik": "19:49",
+            "xufton": "21:30"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Juma",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:14",
+            "asr": "17:28",
+            "iftorlik": "19:49",
+            "xufton": "21:31"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Shanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:14",
+            "asr": "17:28",
+            "iftorlik": "19:50",
+            "xufton": "21:32"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:14",
+            "asr": "17:29",
+            "iftorlik": "19:50",
+            "xufton": "21:32"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:14",
+            "asr": "17:29",
+            "iftorlik": "19:51",
+            "xufton": "21:33"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:14",
+            "asr": "17:29",
+            "iftorlik": "19:51",
+            "xufton": "21:33"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:15",
+            "asr": "17:29",
+            "iftorlik": "19:51",
+            "xufton": "21:33"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:15",
+            "asr": "17:30",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Juma",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:15",
+            "asr": "17:30",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Shanba",
+            "saharlik": "02:56",
+            "quyosh": "04:41",
+            "peshin": "12:15",
+            "asr": "17:30",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "02:57",
+            "quyosh": "04:42",
+            "peshin": "12:15",
+            "asr": "17:30",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "02:57",
+            "quyosh": "04:42",
+            "peshin": "12:16",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "02:57",
+            "quyosh": "04:42",
+            "peshin": "12:16",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:35"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "02:58",
+            "quyosh": "04:43",
+            "peshin": "12:16",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:35"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "02:58",
+            "quyosh": "04:43",
+            "peshin": "12:16",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:34"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Juma",
+            "saharlik": "02:59",
+            "quyosh": "04:43",
+            "peshin": "12:17",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:34"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Shanba",
+            "saharlik": "02:59",
+            "quyosh": "04:44",
+            "peshin": "12:17",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:34"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:00",
+            "quyosh": "04:44",
+            "peshin": "12:17",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:34"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:00",
+            "quyosh": "04:45",
+            "peshin": "12:17",
+            "asr": "17:31",
+            "iftorlik": "19:53",
+            "xufton": "21:34"
+        }
+    },
+    "7": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:01",
+            "quyosh": "04:45",
+            "peshin": "12:17",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:34"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:02",
+            "quyosh": "04:46",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:33"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:02",
+            "quyosh": "04:46",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:33"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:03",
+            "quyosh": "04:47",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:32"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:04",
+            "quyosh": "04:47",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:52",
+            "xufton": "21:32"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:05",
+            "quyosh": "04:48",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:51",
+            "xufton": "21:31"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:06",
+            "quyosh": "04:48",
+            "peshin": "12:18",
+            "asr": "17:31",
+            "iftorlik": "19:51",
+            "xufton": "21:31"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:07",
+            "quyosh": "04:49",
+            "peshin": "12:19",
+            "asr": "17:31",
+            "iftorlik": "19:51",
+            "xufton": "21:30"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:08",
+            "quyosh": "04:50",
+            "peshin": "12:19",
+            "asr": "17:31",
+            "iftorlik": "19:50",
+            "xufton": "21:29"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:09",
+            "quyosh": "04:50",
+            "peshin": "12:19",
+            "asr": "17:31",
+            "iftorlik": "19:50",
+            "xufton": "21:29"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:10",
+            "quyosh": "04:51",
+            "peshin": "12:19",
+            "asr": "17:31",
+            "iftorlik": "19:49",
+            "xufton": "21:28"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:11",
+            "quyosh": "04:52",
+            "peshin": "12:19",
+            "asr": "17:31",
+            "iftorlik": "19:49",
+            "xufton": "21:27"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:12",
+            "quyosh": "04:53",
+            "peshin": "12:19",
+            "asr": "17:30",
+            "iftorlik": "19:48",
+            "xufton": "21:26"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:13",
+            "quyosh": "04:53",
+            "peshin": "12:19",
+            "asr": "17:30",
+            "iftorlik": "19:48",
+            "xufton": "21:25"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:14",
+            "quyosh": "04:54",
+            "peshin": "12:19",
+            "asr": "17:30",
+            "iftorlik": "19:47",
+            "xufton": "21:24"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:15",
+            "quyosh": "04:55",
+            "peshin": "12:20",
+            "asr": "17:30",
+            "iftorlik": "19:47",
+            "xufton": "21:23"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:16",
+            "quyosh": "04:56",
+            "peshin": "12:20",
+            "asr": "17:29",
+            "iftorlik": "19:46",
+            "xufton": "21:22"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:18",
+            "quyosh": "04:57",
+            "peshin": "12:20",
+            "asr": "17:29",
+            "iftorlik": "19:45",
+            "xufton": "21:21"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:19",
+            "quyosh": "04:57",
+            "peshin": "12:20",
+            "asr": "17:29",
+            "iftorlik": "19:45",
+            "xufton": "21:20"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:20",
+            "quyosh": "04:58",
+            "peshin": "12:20",
+            "asr": "17:28",
+            "iftorlik": "19:44",
+            "xufton": "21:19"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:21",
+            "quyosh": "04:59",
+            "peshin": "12:20",
+            "asr": "17:28",
+            "iftorlik": "19:43",
+            "xufton": "21:18"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:23",
+            "quyosh": "05:00",
+            "peshin": "12:20",
+            "asr": "17:27",
+            "iftorlik": "19:42",
+            "xufton": "21:16"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:24",
+            "quyosh": "05:01",
+            "peshin": "12:20",
+            "asr": "17:27",
+            "iftorlik": "19:41",
+            "xufton": "21:15"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:25",
+            "quyosh": "05:02",
+            "peshin": "12:20",
+            "asr": "17:27",
+            "iftorlik": "19:41",
+            "xufton": "21:14"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:27",
+            "quyosh": "05:03",
+            "peshin": "12:20",
+            "asr": "17:26",
+            "iftorlik": "19:40",
+            "xufton": "21:13"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:28",
+            "quyosh": "05:04",
+            "peshin": "12:20",
+            "asr": "17:26",
+            "iftorlik": "19:39",
+            "xufton": "21:11"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:29",
+            "quyosh": "05:05",
+            "peshin": "12:20",
+            "asr": "17:25",
+            "iftorlik": "19:38",
+            "xufton": "21:10"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:31",
+            "quyosh": "05:06",
+            "peshin": "12:20",
+            "asr": "17:24",
+            "iftorlik": "19:37",
+            "xufton": "21:08"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:32",
+            "quyosh": "05:06",
+            "peshin": "12:20",
+            "asr": "17:24",
+            "iftorlik": "19:36",
+            "xufton": "21:07"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:33",
+            "quyosh": "05:07",
+            "peshin": "12:20",
+            "asr": "17:23",
+            "iftorlik": "19:35",
+            "xufton": "21:06"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:35",
+            "quyosh": "05:08",
+            "peshin": "12:20",
+            "asr": "17:23",
+            "iftorlik": "19:34",
+            "xufton": "21:04"
+        }
+    },
+    "8": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:36",
+            "quyosh": "05:09",
+            "peshin": "12:20",
+            "asr": "17:22",
+            "iftorlik": "19:33",
+            "xufton": "21:03"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:38",
+            "quyosh": "05:10",
+            "peshin": "12:20",
+            "asr": "17:21",
+            "iftorlik": "19:32",
+            "xufton": "21:01"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:39",
+            "quyosh": "05:11",
+            "peshin": "12:20",
+            "asr": "17:21",
+            "iftorlik": "19:30",
+            "xufton": "21:00"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:40",
+            "quyosh": "05:12",
+            "peshin": "12:20",
+            "asr": "17:20",
+            "iftorlik": "19:29",
+            "xufton": "20:58"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:42",
+            "quyosh": "05:13",
+            "peshin": "12:19",
+            "asr": "17:19",
+            "iftorlik": "19:28",
+            "xufton": "20:56"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:43",
+            "quyosh": "05:14",
+            "peshin": "12:19",
+            "asr": "17:18",
+            "iftorlik": "19:27",
+            "xufton": "20:55"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:45",
+            "quyosh": "05:15",
+            "peshin": "12:19",
+            "asr": "17:18",
+            "iftorlik": "19:26",
+            "xufton": "20:53"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:46",
+            "quyosh": "05:16",
+            "peshin": "12:19",
+            "asr": "17:17",
+            "iftorlik": "19:24",
+            "xufton": "20:51"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:47",
+            "quyosh": "05:17",
+            "peshin": "12:19",
+            "asr": "17:16",
+            "iftorlik": "19:23",
+            "xufton": "20:50"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:49",
+            "quyosh": "05:18",
+            "peshin": "12:19",
+            "asr": "17:15",
+            "iftorlik": "19:22",
+            "xufton": "20:48"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "03:50",
+            "quyosh": "05:19",
+            "peshin": "12:19",
+            "asr": "17:14",
+            "iftorlik": "19:21",
+            "xufton": "20:46"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "03:51",
+            "quyosh": "05:20",
+            "peshin": "12:18",
+            "asr": "17:13",
+            "iftorlik": "19:19",
+            "xufton": "20:45"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "03:53",
+            "quyosh": "05:21",
+            "peshin": "12:18",
+            "asr": "17:12",
+            "iftorlik": "19:18",
+            "xufton": "20:43"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "03:54",
+            "quyosh": "05:22",
+            "peshin": "12:18",
+            "asr": "17:12",
+            "iftorlik": "19:16",
+            "xufton": "20:41"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Juma",
+            "saharlik": "03:56",
+            "quyosh": "05:23",
+            "peshin": "12:18",
+            "asr": "17:11",
+            "iftorlik": "19:15",
+            "xufton": "20:39"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Shanba",
+            "saharlik": "03:57",
+            "quyosh": "05:24",
+            "peshin": "12:18",
+            "asr": "17:10",
+            "iftorlik": "19:14",
+            "xufton": "20:38"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "03:58",
+            "quyosh": "05:25",
+            "peshin": "12:17",
+            "asr": "17:09",
+            "iftorlik": "19:12",
+            "xufton": "20:36"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:00",
+            "quyosh": "05:26",
+            "peshin": "12:17",
+            "asr": "17:08",
+            "iftorlik": "19:11",
+            "xufton": "20:34"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:01",
+            "quyosh": "05:27",
+            "peshin": "12:17",
+            "asr": "17:07",
+            "iftorlik": "19:09",
+            "xufton": "20:32"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:02",
+            "quyosh": "05:28",
+            "peshin": "12:17",
+            "asr": "17:06",
+            "iftorlik": "19:08",
+            "xufton": "20:31"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:04",
+            "quyosh": "05:29",
+            "peshin": "12:17",
+            "asr": "17:05",
+            "iftorlik": "19:06",
+            "xufton": "20:29"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:05",
+            "quyosh": "05:30",
+            "peshin": "12:16",
+            "asr": "17:03",
+            "iftorlik": "19:05",
+            "xufton": "20:27"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:06",
+            "quyosh": "05:31",
+            "peshin": "12:16",
+            "asr": "17:02",
+            "iftorlik": "19:03",
+            "xufton": "20:25"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:08",
+            "quyosh": "05:32",
+            "peshin": "12:16",
+            "asr": "17:01",
+            "iftorlik": "19:02",
+            "xufton": "20:23"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:09",
+            "quyosh": "05:33",
+            "peshin": "12:16",
+            "asr": "17:00",
+            "iftorlik": "19:00",
+            "xufton": "20:21"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:10",
+            "quyosh": "05:34",
+            "peshin": "12:15",
+            "asr": "16:59",
+            "iftorlik": "18:59",
+            "xufton": "20:19"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:11",
+            "quyosh": "05:35",
+            "peshin": "12:15",
+            "asr": "16:58",
+            "iftorlik": "18:57",
+            "xufton": "20:18"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:13",
+            "quyosh": "05:36",
+            "peshin": "12:15",
+            "asr": "16:57",
+            "iftorlik": "18:56",
+            "xufton": "20:16"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:14",
+            "quyosh": "05:37",
+            "peshin": "12:14",
+            "asr": "16:55",
+            "iftorlik": "18:54",
+            "xufton": "20:14"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:15",
+            "quyosh": "05:38",
+            "peshin": "12:14",
+            "asr": "16:54",
+            "iftorlik": "18:52",
+            "xufton": "20:12"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:16",
+            "quyosh": "05:39",
+            "peshin": "12:14",
+            "asr": "16:53",
+            "iftorlik": "18:51",
+            "xufton": "20:10"
+        }
+    },
+    "9": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:18",
+            "quyosh": "05:40",
+            "peshin": "12:13",
+            "asr": "16:52",
+            "iftorlik": "18:49",
+            "xufton": "20:08"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:19",
+            "quyosh": "05:41",
+            "peshin": "12:13",
+            "asr": "16:50",
+            "iftorlik": "18:47",
+            "xufton": "20:06"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:20",
+            "quyosh": "05:42",
+            "peshin": "12:13",
+            "asr": "16:49",
+            "iftorlik": "18:46",
+            "xufton": "20:05"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:21",
+            "quyosh": "05:43",
+            "peshin": "12:12",
+            "asr": "16:48",
+            "iftorlik": "18:44",
+            "xufton": "20:03"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:23",
+            "quyosh": "05:44",
+            "peshin": "12:12",
+            "asr": "16:47",
+            "iftorlik": "18:43",
+            "xufton": "20:01"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:24",
+            "quyosh": "05:45",
+            "peshin": "12:12",
+            "asr": "16:45",
+            "iftorlik": "18:41",
+            "xufton": "19:59"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:25",
+            "quyosh": "05:46",
+            "peshin": "12:11",
+            "asr": "16:44",
+            "iftorlik": "18:39",
+            "xufton": "19:57"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:26",
+            "quyosh": "05:47",
+            "peshin": "12:11",
+            "asr": "16:43",
+            "iftorlik": "18:38",
+            "xufton": "19:55"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:27",
+            "quyosh": "05:48",
+            "peshin": "12:11",
+            "asr": "16:41",
+            "iftorlik": "18:36",
+            "xufton": "19:53"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:29",
+            "quyosh": "05:49",
+            "peshin": "12:10",
+            "asr": "16:40",
+            "iftorlik": "18:34",
+            "xufton": "19:51"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:30",
+            "quyosh": "05:50",
+            "peshin": "12:10",
+            "asr": "16:39",
+            "iftorlik": "18:32",
+            "xufton": "19:50"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:31",
+            "quyosh": "05:51",
+            "peshin": "12:10",
+            "asr": "16:37",
+            "iftorlik": "18:31",
+            "xufton": "19:48"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:32",
+            "quyosh": "05:52",
+            "peshin": "12:09",
+            "asr": "16:36",
+            "iftorlik": "18:29",
+            "xufton": "19:46"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:33",
+            "quyosh": "05:53",
+            "peshin": "12:09",
+            "asr": "16:35",
+            "iftorlik": "18:27",
+            "xufton": "19:44"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:34",
+            "quyosh": "05:54",
+            "peshin": "12:09",
+            "asr": "16:33",
+            "iftorlik": "18:26",
+            "xufton": "19:42"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:35",
+            "quyosh": "05:55",
+            "peshin": "12:08",
+            "asr": "16:32",
+            "iftorlik": "18:24",
+            "xufton": "19:40"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:37",
+            "quyosh": "05:56",
+            "peshin": "12:08",
+            "asr": "16:30",
+            "iftorlik": "18:22",
+            "xufton": "19:38"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:38",
+            "quyosh": "05:57",
+            "peshin": "12:08",
+            "asr": "16:29",
+            "iftorlik": "18:21",
+            "xufton": "19:37"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:39",
+            "quyosh": "05:58",
+            "peshin": "12:07",
+            "asr": "16:27",
+            "iftorlik": "18:19",
+            "xufton": "19:35"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:40",
+            "quyosh": "05:59",
+            "peshin": "12:07",
+            "asr": "16:26",
+            "iftorlik": "18:17",
+            "xufton": "19:33"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:41",
+            "quyosh": "06:00",
+            "peshin": "12:06",
+            "asr": "16:25",
+            "iftorlik": "18:15",
+            "xufton": "19:31"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:42",
+            "quyosh": "06:01",
+            "peshin": "12:06",
+            "asr": "16:23",
+            "iftorlik": "18:14",
+            "xufton": "19:29"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:43",
+            "quyosh": "06:02",
+            "peshin": "12:06",
+            "asr": "16:22",
+            "iftorlik": "18:12",
+            "xufton": "19:28"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:44",
+            "quyosh": "06:03",
+            "peshin": "12:05",
+            "asr": "16:20",
+            "iftorlik": "18:10",
+            "xufton": "19:26"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:45",
+            "quyosh": "06:04",
+            "peshin": "12:05",
+            "asr": "16:19",
+            "iftorlik": "18:09",
+            "xufton": "19:24"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:47",
+            "quyosh": "06:05",
+            "peshin": "12:05",
+            "asr": "16:17",
+            "iftorlik": "18:07",
+            "xufton": "19:22"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:48",
+            "quyosh": "06:06",
+            "peshin": "12:04",
+            "asr": "16:16",
+            "iftorlik": "18:05",
+            "xufton": "19:20"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:49",
+            "quyosh": "06:07",
+            "peshin": "12:04",
+            "asr": "16:14",
+            "iftorlik": "18:04",
+            "xufton": "19:19"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:50",
+            "quyosh": "06:08",
+            "peshin": "12:04",
+            "asr": "16:13",
+            "iftorlik": "18:02",
+            "xufton": "19:17"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:51",
+            "quyosh": "06:09",
+            "peshin": "12:03",
+            "asr": "16:12",
+            "iftorlik": "18:00",
+            "xufton": "19:15"
+        }
+    },
+    "10": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:52",
+            "quyosh": "06:10",
+            "peshin": "12:03",
+            "asr": "16:10",
+            "iftorlik": "17:59",
+            "xufton": "19:14"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "04:53",
+            "quyosh": "06:11",
+            "peshin": "12:03",
+            "asr": "16:09",
+            "iftorlik": "17:57",
+            "xufton": "19:12"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Juma",
+            "saharlik": "04:54",
+            "quyosh": "06:12",
+            "peshin": "12:02",
+            "asr": "16:07",
+            "iftorlik": "17:55",
+            "xufton": "19:10"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Shanba",
+            "saharlik": "04:55",
+            "quyosh": "06:13",
+            "peshin": "12:02",
+            "asr": "16:06",
+            "iftorlik": "17:54",
+            "xufton": "19:08"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "04:56",
+            "quyosh": "06:14",
+            "peshin": "12:02",
+            "asr": "16:04",
+            "iftorlik": "17:52",
+            "xufton": "19:07"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "04:57",
+            "quyosh": "06:15",
+            "peshin": "12:02",
+            "asr": "16:03",
+            "iftorlik": "17:50",
+            "xufton": "19:05"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "04:58",
+            "quyosh": "06:16",
+            "peshin": "12:01",
+            "asr": "16:01",
+            "iftorlik": "17:49",
+            "xufton": "19:04"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "04:59",
+            "quyosh": "06:17",
+            "peshin": "12:01",
+            "asr": "16:00",
+            "iftorlik": "17:47",
+            "xufton": "19:02"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:00",
+            "quyosh": "06:18",
+            "peshin": "12:01",
+            "asr": "15:58",
+            "iftorlik": "17:45",
+            "xufton": "19:00"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:01",
+            "quyosh": "06:19",
+            "peshin": "12:00",
+            "asr": "15:57",
+            "iftorlik": "17:44",
+            "xufton": "18:59"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:02",
+            "quyosh": "06:20",
+            "peshin": "12:00",
+            "asr": "15:56",
+            "iftorlik": "17:42",
+            "xufton": "18:57"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:03",
+            "quyosh": "06:22",
+            "peshin": "12:00",
+            "asr": "15:54",
+            "iftorlik": "17:41",
+            "xufton": "18:56"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:05",
+            "quyosh": "06:23",
+            "peshin": "12:00",
+            "asr": "15:53",
+            "iftorlik": "17:39",
+            "xufton": "18:54"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:06",
+            "quyosh": "06:24",
+            "peshin": "11:59",
+            "asr": "15:51",
+            "iftorlik": "17:37",
+            "xufton": "18:53"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:07",
+            "quyosh": "06:25",
+            "peshin": "11:59",
+            "asr": "15:50",
+            "iftorlik": "17:36",
+            "xufton": "18:51"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:08",
+            "quyosh": "06:26",
+            "peshin": "11:59",
+            "asr": "15:48",
+            "iftorlik": "17:34",
+            "xufton": "18:50"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:09",
+            "quyosh": "06:27",
+            "peshin": "11:59",
+            "asr": "15:47",
+            "iftorlik": "17:33",
+            "xufton": "18:48"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:10",
+            "quyosh": "06:28",
+            "peshin": "11:59",
+            "asr": "15:46",
+            "iftorlik": "17:31",
+            "xufton": "18:47"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:11",
+            "quyosh": "06:29",
+            "peshin": "11:58",
+            "asr": "15:44",
+            "iftorlik": "17:30",
+            "xufton": "18:45"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:12",
+            "quyosh": "06:30",
+            "peshin": "11:58",
+            "asr": "15:43",
+            "iftorlik": "17:28",
+            "xufton": "18:44"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:13",
+            "quyosh": "06:31",
+            "peshin": "11:58",
+            "asr": "15:42",
+            "iftorlik": "17:27",
+            "xufton": "18:43"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:14",
+            "quyosh": "06:33",
+            "peshin": "11:58",
+            "asr": "15:40",
+            "iftorlik": "17:26",
+            "xufton": "18:41"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:15",
+            "quyosh": "06:34",
+            "peshin": "11:58",
+            "asr": "15:39",
+            "iftorlik": "17:24",
+            "xufton": "18:40"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:16",
+            "quyosh": "06:35",
+            "peshin": "11:58",
+            "asr": "15:38",
+            "iftorlik": "17:23",
+            "xufton": "18:39"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:17",
+            "quyosh": "06:36",
+            "peshin": "11:57",
+            "asr": "15:36",
+            "iftorlik": "17:21",
+            "xufton": "18:37"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:18",
+            "quyosh": "06:37",
+            "peshin": "11:57",
+            "asr": "15:35",
+            "iftorlik": "17:20",
+            "xufton": "18:36"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:19",
+            "quyosh": "06:38",
+            "peshin": "11:57",
+            "asr": "15:34",
+            "iftorlik": "17:19",
+            "xufton": "18:35"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:20",
+            "quyosh": "06:39",
+            "peshin": "11:57",
+            "asr": "15:33",
+            "iftorlik": "17:17",
+            "xufton": "18:34"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:21",
+            "quyosh": "06:41",
+            "peshin": "11:57",
+            "asr": "15:31",
+            "iftorlik": "17:16",
+            "xufton": "18:32"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:22",
+            "quyosh": "06:42",
+            "peshin": "11:57",
+            "asr": "15:30",
+            "iftorlik": "17:15",
+            "xufton": "18:31"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:23",
+            "quyosh": "06:43",
+            "peshin": "11:57",
+            "asr": "15:29",
+            "iftorlik": "17:13",
+            "xufton": "18:30"
+        }
+    },
+    "11": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:24",
+            "quyosh": "06:44",
+            "peshin": "11:57",
+            "asr": "15:28",
+            "iftorlik": "17:12",
+            "xufton": "18:29"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:25",
+            "quyosh": "06:45",
+            "peshin": "11:57",
+            "asr": "15:27",
+            "iftorlik": "17:11",
+            "xufton": "18:28"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:26",
+            "quyosh": "06:46",
+            "peshin": "11:57",
+            "asr": "15:26",
+            "iftorlik": "17:10",
+            "xufton": "18:27"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:28",
+            "quyosh": "06:48",
+            "peshin": "11:57",
+            "asr": "15:24",
+            "iftorlik": "17:09",
+            "xufton": "18:26"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:29",
+            "quyosh": "06:49",
+            "peshin": "11:57",
+            "asr": "15:23",
+            "iftorlik": "17:08",
+            "xufton": "18:25"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:30",
+            "quyosh": "06:50",
+            "peshin": "11:57",
+            "asr": "15:22",
+            "iftorlik": "17:06",
+            "xufton": "18:24"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:31",
+            "quyosh": "06:51",
+            "peshin": "11:57",
+            "asr": "15:21",
+            "iftorlik": "17:05",
+            "xufton": "18:23"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:32",
+            "quyosh": "06:52",
+            "peshin": "11:57",
+            "asr": "15:20",
+            "iftorlik": "17:04",
+            "xufton": "18:22"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:33",
+            "quyosh": "06:54",
+            "peshin": "11:57",
+            "asr": "15:19",
+            "iftorlik": "17:03",
+            "xufton": "18:21"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:34",
+            "quyosh": "06:55",
+            "peshin": "11:57",
+            "asr": "15:18",
+            "iftorlik": "17:02",
+            "xufton": "18:20"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:35",
+            "quyosh": "06:56",
+            "peshin": "11:57",
+            "asr": "15:17",
+            "iftorlik": "17:01",
+            "xufton": "18:20"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:36",
+            "quyosh": "06:57",
+            "peshin": "11:58",
+            "asr": "15:16",
+            "iftorlik": "17:00",
+            "xufton": "18:19"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:37",
+            "quyosh": "06:58",
+            "peshin": "11:58",
+            "asr": "15:16",
+            "iftorlik": "16:59",
+            "xufton": "18:18"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:38",
+            "quyosh": "07:00",
+            "peshin": "11:58",
+            "asr": "15:15",
+            "iftorlik": "16:59",
+            "xufton": "18:17"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:39",
+            "quyosh": "07:01",
+            "peshin": "11:58",
+            "asr": "15:14",
+            "iftorlik": "16:58",
+            "xufton": "18:17"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:40",
+            "quyosh": "07:02",
+            "peshin": "11:58",
+            "asr": "15:13",
+            "iftorlik": "16:57",
+            "xufton": "18:16"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:41",
+            "quyosh": "07:03",
+            "peshin": "11:58",
+            "asr": "15:12",
+            "iftorlik": "16:56",
+            "xufton": "18:15"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:42",
+            "quyosh": "07:04",
+            "peshin": "11:59",
+            "asr": "15:12",
+            "iftorlik": "16:55",
+            "xufton": "18:15"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:43",
+            "quyosh": "07:05",
+            "peshin": "11:59",
+            "asr": "15:11",
+            "iftorlik": "16:55",
+            "xufton": "18:14"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:44",
+            "quyosh": "07:07",
+            "peshin": "11:59",
+            "asr": "15:10",
+            "iftorlik": "16:54",
+            "xufton": "18:14"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:45",
+            "quyosh": "07:08",
+            "peshin": "11:59",
+            "asr": "15:10",
+            "iftorlik": "16:53",
+            "xufton": "18:13"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:46",
+            "quyosh": "07:09",
+            "peshin": "12:00",
+            "asr": "15:09",
+            "iftorlik": "16:53",
+            "xufton": "18:13"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:47",
+            "quyosh": "07:10",
+            "peshin": "12:00",
+            "asr": "15:08",
+            "iftorlik": "16:52",
+            "xufton": "18:12"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:48",
+            "quyosh": "07:11",
+            "peshin": "12:00",
+            "asr": "15:08",
+            "iftorlik": "16:52",
+            "xufton": "18:12"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:49",
+            "quyosh": "07:12",
+            "peshin": "12:00",
+            "asr": "15:07",
+            "iftorlik": "16:51",
+            "xufton": "18:11"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:50",
+            "quyosh": "07:13",
+            "peshin": "12:01",
+            "asr": "15:07",
+            "iftorlik": "16:51",
+            "xufton": "18:11"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:51",
+            "quyosh": "07:15",
+            "peshin": "12:01",
+            "asr": "15:06",
+            "iftorlik": "16:50",
+            "xufton": "18:11"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:52",
+            "quyosh": "07:16",
+            "peshin": "12:01",
+            "asr": "15:06",
+            "iftorlik": "16:50",
+            "xufton": "18:11"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:53",
+            "quyosh": "07:17",
+            "peshin": "12:02",
+            "asr": "15:06",
+            "iftorlik": "16:49",
+            "xufton": "18:10"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "05:54",
+            "quyosh": "07:18",
+            "peshin": "12:02",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:10"
+        }
+    },
+    "12": {
+        "1": {
+            "kun": "1",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "05:55",
+            "quyosh": "07:19",
+            "peshin": "12:02",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:10"
+        },
+        "2": {
+            "kun": "2",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "05:56",
+            "quyosh": "07:20",
+            "peshin": "12:03",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:10"
+        },
+        "3": {
+            "kun": "3",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "05:56",
+            "quyosh": "07:21",
+            "peshin": "12:03",
+            "asr": "15:05",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "4": {
+            "kun": "4",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "05:57",
+            "quyosh": "07:22",
+            "peshin": "12:04",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "5": {
+            "kun": "5",
+            "hafta_kuni": "Juma",
+            "saharlik": "05:58",
+            "quyosh": "07:23",
+            "peshin": "12:04",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "6": {
+            "kun": "6",
+            "hafta_kuni": "Shanba",
+            "saharlik": "05:59",
+            "quyosh": "07:24",
+            "peshin": "12:04",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "7": {
+            "kun": "7",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:00",
+            "quyosh": "07:25",
+            "peshin": "12:05",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "8": {
+            "kun": "8",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:01",
+            "quyosh": "07:25",
+            "peshin": "12:05",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "9": {
+            "kun": "9",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:01",
+            "quyosh": "07:26",
+            "peshin": "12:06",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "10": {
+            "kun": "10",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:02",
+            "quyosh": "07:27",
+            "peshin": "12:06",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "11": {
+            "kun": "11",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:03",
+            "quyosh": "07:28",
+            "peshin": "12:07",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "12": {
+            "kun": "12",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:04",
+            "quyosh": "07:29",
+            "peshin": "12:07",
+            "asr": "15:04",
+            "iftorlik": "16:48",
+            "xufton": "18:10"
+        },
+        "13": {
+            "kun": "13",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:04",
+            "quyosh": "07:30",
+            "peshin": "12:08",
+            "asr": "15:05",
+            "iftorlik": "16:48",
+            "xufton": "18:11"
+        },
+        "14": {
+            "kun": "14",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:05",
+            "quyosh": "07:30",
+            "peshin": "12:08",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:11"
+        },
+        "15": {
+            "kun": "15",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:06",
+            "quyosh": "07:31",
+            "peshin": "12:09",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:11"
+        },
+        "16": {
+            "kun": "16",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:06",
+            "quyosh": "07:32",
+            "peshin": "12:09",
+            "asr": "15:05",
+            "iftorlik": "16:49",
+            "xufton": "18:12"
+        },
+        "17": {
+            "kun": "17",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:07",
+            "quyosh": "07:32",
+            "peshin": "12:10",
+            "asr": "15:06",
+            "iftorlik": "16:50",
+            "xufton": "18:12"
+        },
+        "18": {
+            "kun": "18",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:08",
+            "quyosh": "07:33",
+            "peshin": "12:10",
+            "asr": "15:06",
+            "iftorlik": "16:50",
+            "xufton": "18:12"
+        },
+        "19": {
+            "kun": "19",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:08",
+            "quyosh": "07:34",
+            "peshin": "12:11",
+            "asr": "15:06",
+            "iftorlik": "16:50",
+            "xufton": "18:13"
+        },
+        "20": {
+            "kun": "20",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:09",
+            "quyosh": "07:34",
+            "peshin": "12:11",
+            "asr": "15:07",
+            "iftorlik": "16:51",
+            "xufton": "18:13"
+        },
+        "21": {
+            "kun": "21",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:09",
+            "quyosh": "07:35",
+            "peshin": "12:12",
+            "asr": "15:07",
+            "iftorlik": "16:51",
+            "xufton": "18:14"
+        },
+        "22": {
+            "kun": "22",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:10",
+            "quyosh": "07:35",
+            "peshin": "12:12",
+            "asr": "15:08",
+            "iftorlik": "16:52",
+            "xufton": "18:14"
+        },
+        "23": {
+            "kun": "23",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:10",
+            "quyosh": "07:36",
+            "peshin": "12:13",
+            "asr": "15:08",
+            "iftorlik": "16:52",
+            "xufton": "18:15"
+        },
+        "24": {
+            "kun": "24",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:11",
+            "quyosh": "07:36",
+            "peshin": "12:13",
+            "asr": "15:09",
+            "iftorlik": "16:53",
+            "xufton": "18:15"
+        },
+        "25": {
+            "kun": "25",
+            "hafta_kuni": "Payshanba",
+            "saharlik": "06:11",
+            "quyosh": "07:37",
+            "peshin": "12:14",
+            "asr": "15:10",
+            "iftorlik": "16:53",
+            "xufton": "18:16"
+        },
+        "26": {
+            "kun": "26",
+            "hafta_kuni": "Juma",
+            "saharlik": "06:12",
+            "quyosh": "07:37",
+            "peshin": "12:14",
+            "asr": "15:10",
+            "iftorlik": "16:54",
+            "xufton": "18:17"
+        },
+        "27": {
+            "kun": "27",
+            "hafta_kuni": "Shanba",
+            "saharlik": "06:12",
+            "quyosh": "07:37",
+            "peshin": "12:14",
+            "asr": "15:11",
+            "iftorlik": "16:55",
+            "xufton": "18:17"
+        },
+        "28": {
+            "kun": "28",
+            "hafta_kuni": "Yakshanba",
+            "saharlik": "06:12",
+            "quyosh": "07:38",
+            "peshin": "12:15",
+            "asr": "15:12",
+            "iftorlik": "16:56",
+            "xufton": "18:18"
+        },
+        "29": {
+            "kun": "29",
+            "hafta_kuni": "Dushanba",
+            "saharlik": "06:13",
+            "quyosh": "07:38",
+            "peshin": "12:15",
+            "asr": "15:12",
+            "iftorlik": "16:56",
+            "xufton": "18:19"
+        },
+        "30": {
+            "kun": "30",
+            "hafta_kuni": "Seshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:38",
+            "peshin": "12:16",
+            "asr": "15:13",
+            "iftorlik": "16:57",
+            "xufton": "18:19"
+        },
+        "31": {
+            "kun": "31",
+            "hafta_kuni": "Chorshanba",
+            "saharlik": "06:13",
+            "quyosh": "07:38",
+            "peshin": "12:16",
+            "asr": "15:14",
+            "iftorlik": "16:58",
+            "xufton": "18:20"
+        }
+    }
+}
