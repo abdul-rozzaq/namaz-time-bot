@@ -1,132 +1,65 @@
-![alt](https://i.imgur.com/ax1RtVI.png)
+# Namaz Time Bot
 
+Bu loyiha Telegram bot bo'lib, foydalanuvchilarga namoz vaqtlarini ko'rsatib beradi. Bot foydalanuvchilarning joylashuviga qarab namoz vaqtlarini aniqlaydi va ularga qulay interfeys orqali ma'lumotlarni taqdim etadi.
 
-# 🚀 FastAPI + python-telegram-bot Starter Template
+## Xususiyatlari
+- Namoz vaqtlarini aniqlash.
+- Foydalanuvchining joylashuvini avtomatik aniqlash yoki qo'lda kiritish.
+- Har bir namoz vaqti uchun eslatma o'rnatish.
+- Oddiy va qulay foydalanish interfeysi.
 
-A modern and developer-friendly starter template to build **Telegram bots** using [FastAPI](https://fastapi.tiangolo.com/) and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
+## O'rnatish va Ishlatish
 
----
+### Talablar
+- Python 3.8 yoki undan yuqori versiya.
+- Quyidagi kutubxonalar o'rnatilgan bo'lishi kerak:
+    - `python-telegram-bot`
+    - `requests`
+    - `pytz`
 
-## 📦 Features
+### O'rnatish
+1. Loyihani klonlang:
+     ```bash
+     git clone https://github.com/username/namaz-time-bot.git
+     cd namaz-time-bot
+     ```
 
-- ⚡ **FastAPI** based async webhook handling
-- 🤖 **python-telegram-bot** v20+ support
-- 🧱 Well-organized folder structure
-- 🔌 CLI commands to manage the server and webhooks
-- 📁 `.env` based configuration
-- 🧪 Ready for deployment (Uvicorn, Docker optional)
+2. Virtual muhit yarating va faollashtiring:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate  # Windows uchun: venv\Scripts\activate
+     ```
 
----
+3. Talab qilinadigan kutubxonalarni o'rnating:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
-## 🗂️ Project Structure
+4. `.env` faylini yarating va Telegram bot tokenini qo'shing:
+     ```env
+     BOT_TOKEN=your_telegram_bot_token
+     ```
 
-```
-src/
-├── config/              # Settings, environment variables
-│   └── settings.py
-├── controllers/         # Telegram webhook controller
-│   └── webhook.py
-├── core/                # Lifespan handlers, utilities
-│   └── lifespan.py
-├── services/            # Main bot logic
-│   ├── bot.py           # Bot application
-│   └── cli.py           # CLI application
-│   main.py              # FastAPI app instance
-├── .env.example         # Example environment variables
-├── run.py               # CLI runner (runserver, set-webhook, etc)
-```
+### Ishga tushirish
+1. Botni ishga tushiring:
+     ```bash
+     python bot.py
+     ```
 
----
+2. Telegram orqali botga yozing va foydalanishni boshlang.
 
-## ⚙️ Setup & Usage
+## Foydalanish
+1. Botni ishga tushirgandan so'ng, Telegram orqali botga `/start` buyrug'ini yuboring.
+2. Joylashuvingizni yuboring yoki qo'lda kiritib, namoz vaqtlarini oling.
+3. Eslatmalarni sozlash uchun botning ko'rsatmalariga amal qiling.
 
-### 1. Clone the repository
+## Hissa qo'shish
+1. Loyihani fork qiling.
+2. O'zingizning o'zgartirishlaringizni qiling.
+3. Pull request yuboring.
 
-```bash
-git clone https://github.com/abdul-rozzaq/fastapi-telegram-bot.git
-cd fastapi-telegram-bot
-```
+## Litsenziya
+Ushbu loyiha [MIT](LICENSE) litsenziyasi ostida tarqatiladi.
 
-### 2. Create environment file
-
-```bash
-cp .env.example .env
-```
-
-Fill in your `.env` file:
-
-```env
-BOT_TOKEN=your_bot_token
-WEBHOOK_DOMAIN=https://yourdomain.com
-```
-
-### 3. Run local server
-
-```bash
-python run.py runserver
-```
-
-### 4. Set or delete webhook
-
-```bash
-# Set Telegram webhook
-python run.py set-webhook
-
-# Delete Telegram webhook
-python run.py delete-webhook
-```
-
----
-
-## 📸 Screenshot
-
-Here’s how the project looks inside VSCode:
-
-![Project Screenshot](https://i.imgur.com/W7voTlK.png)
-
----
-
-## 🧪 Tech Stack
-
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [python-telegram-bot](https://docs.python-telegram-bot.org/)
-- [Uvicorn](https://www.uvicorn.org/)
-- Python 3.10+
-
----
-
-## 📌 Why this template?
-
-Telegram bot development usually starts with:
-- Rewriting webhook logic
-- Copy-pasting CLI tools
-- Manually testing endpoint lifecycle
-
-This template removes all the friction and lets you focus on **building features**.
-
----
-
-## 🛠️ TODO (Contributions Welcome!)
-
-- [ ] Add example handlers (start/help commands)
-- [ ] Docker support
-- [ ] Add logging
-- [ ] Deployment guides (Railway, Render, etc)
-
----
-
-## 🤝 Contributing
-
-Pull requests, issues and ideas are welcome!  
-If you find this useful, consider giving it a ⭐ star.
-
----
-
-## 📜 License
-
-MIT License.  
-Free to use, modify, and share.
-
----
-
-## 🙌 Made with ❤️ by a developer who loves bots.
+## Muallif
+Loyihaning muallifi: Abdurazzoq

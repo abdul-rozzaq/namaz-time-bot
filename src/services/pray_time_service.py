@@ -1,7 +1,9 @@
 from datetime import datetime
+from src.config.settings import BASE_DIR
+
 import json
 
-with open("data/regions.json", "r", encoding="utf-8") as file:
+with open(BASE_DIR / "data/regions.json", "r", encoding="utf-8") as file:
     REGIONS = json.loads(file.read())
 
 
@@ -15,7 +17,7 @@ class PrayTimeService:
     def todays_pray_time(self) -> tuple[str | None, dict | None]:
         region_name = next((key for key, value in REGIONS.items() if value == str(self.region_id)), None)
 
-        with open(f"data/regions/{region_name}.json", "r", encoding="utf-8") as file:
+        with open(BASE_DIR / f"data/regions/{region_name}.json", "r", encoding="utf-8") as file:
             region_data = json.load(file)
 
         try:

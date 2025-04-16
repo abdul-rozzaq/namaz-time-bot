@@ -1,15 +1,18 @@
+from pathlib import Path
 from environs import Env
 from tortoise import Tortoise
+
+import os
 
 env = Env()
 env.read_env()
 
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 DEBUG = env.bool("DEBUG", default=False)
 
 BOT_TOKEN = env.str("BOT_TOKEN", default=None)
 WEBHOOK_URL = env.str("WEBHOOK_URL", default=None)
-
 REGION_BUTTONS_COLUMN = 2
 
 

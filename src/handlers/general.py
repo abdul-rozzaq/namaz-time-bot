@@ -3,12 +3,12 @@ from telegram.ext import CallbackContext
 from datetime import datetime
 from src.services.pray_time_service import PrayTimeService
 from src.models import TelegramUser
-from src.config.settings import REGION_BUTTONS_COLUMN
+from src.config.settings import REGION_BUTTONS_COLUMN, BASE_DIR
 
 import json
 
 
-with open("data/regions.json", "r", encoding="utf-8") as file:
+with open(BASE_DIR / "data/regions.json", "r", encoding="utf-8") as file:
     REGIONS = json.loads(file.read())
     REGIONS_KEYS = sorted(list(REGIONS.keys()))
 
