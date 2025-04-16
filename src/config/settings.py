@@ -18,7 +18,7 @@ REGION_BUTTONS_COLUMN = 2
 
 TORTOISE_CONFIG = {
     "connections": {
-        "default": "sqlite://db.sqlite3",
+        "default": f"sqlite://{BASE_DIR / 'db.sqlite3'}",
     },
     "apps": {
         "models": {
